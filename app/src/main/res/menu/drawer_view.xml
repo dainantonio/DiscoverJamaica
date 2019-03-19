@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_camera_alt_black_24dp"
+            android:title="@string/memories" />
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="@string/helpful_phrases" />
+
+        <item
+            android:id="@+id/nav_explore"
+            android:icon="@drawable/ic_explore_black_24dp"
+            android:title="@string/time_to_explore" />
+        <item
+            android:id="@+id/nav_shuttle"
+            android:icon="@drawable/ic_airport_shuttle_black_24dp"
+            android:title="@string/transportation" />
+
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_restaurant_black_24dp"
+            android:title="@string/eats_and_treats" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/ic_hotel_black_24dp"
+            android:title="@string/lodgings" />
+        <item
+            android:id="@+id/nav_things_to_do"
+            android:icon="@drawable/ic_today_black_24dp"
+            android:title="@string/things_to_do" />
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_attach_money_black_24dp"
+            android:title="@string/currency_exchange" />
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/share" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/settings" />
+
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/about_us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/privacy_policy" />
+
+        </menu>
+    </item>
+
+</menu>

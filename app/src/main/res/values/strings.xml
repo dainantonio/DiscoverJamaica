@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Discover Jamaica</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="shuttle">Shuttle</string>
+    <string name="patois">Patois</string>
+    <string name="emergency">Emergency</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="phrase_how_are_you">How are you?</string>
+    <string name="patois_phrase_wah_gwaan">Wah gwaan?</string>
+    <string name="places_of_interest">Places of Interest</string>
+    <string name="memories">Memories</string>
+    <string name="time_to_explore">Time to Explore</string>
+    <string name="helpful_phrases">Helpful Phrases</string>
+    <string name="transportation">Transportation</string>
+    <string name="eats_and_treats">Eats and Treats</string>
+    <string name="lodgings">Lodgings</string>
+    <string name="things_to_do">Things to do</string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="settings">Settings</string>
+    <string name="other">Other</string>
+    <string name="about_us">About US</string>
+
+
+    <string name="patois_1">Wah gwaan?</string>
+    <string name="english_1">Whats\' up?</string>
+    <string name="language">Local Phrases</string>
+    <string name="privacy_policy">privacy_policy</string>
+    <string name="explore">Explore</string>
+
+
+</resources>
